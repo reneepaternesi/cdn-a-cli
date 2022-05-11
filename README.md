@@ -1,4 +1,5 @@
 # cdn-a-cli
+![image](https://user-images.githubusercontent.com/6638639/167942482-460aa871-26e7-4a75-9297-530155c6d547.png)
 
 ## Project setup
 ```
